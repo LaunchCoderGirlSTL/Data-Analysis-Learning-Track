@@ -13,8 +13,14 @@ This week we’ll introduce APIs (Application Programming Interface) and underst
 Lecture
 -------
 
+Connecting with APIs
+
 Assignments
 -----------
 
+TBD
+
 References and Links
 --------------------
+
+`An Introduction to APIs <https://zapier.com/learn/apis/>`_

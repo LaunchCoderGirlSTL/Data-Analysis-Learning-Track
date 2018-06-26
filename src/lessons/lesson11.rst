@@ -19,8 +19,19 @@ This week we’ll introduce SQL.
 Lecture
 -------
 
+Intro to SQL
+
 Assignments
 -----------
 
+TBD
+
 References and Links
 --------------------
+
+Introductory SQL courses:
+
+* `Introduction to SQL and BigQuery <https://www.kaggle.com/learn/sql>`_
+* `SQLZoo SQL Tutorial <https://sqlzoo.net/>`_
+* `W3 Schools SQL Tutorial <https://www.w3schools.com/sql/default.asp>`_
+* `Querying Data with Transact-SQL <https://www.edx.org/course/querying-data-transact-sql>`_

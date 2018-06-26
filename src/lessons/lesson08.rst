@@ -32,7 +32,7 @@ References and Links
 
 `edX account registration <https://courses.edx.org/register>`_
 
-`Lynda account registration <https://www.slcl.org/>`_
+`Saint Louis County Library <https://www.slcl.org/>`_ (Go to the eCourses page under the "Using the Library" tab to find a link to Lynda)
 
 `OLTP vs. OLAP — What’s the Difference? <https://academy.vertabelo.com/blog/oltp-vs-olap-whats-difference/>`_
 

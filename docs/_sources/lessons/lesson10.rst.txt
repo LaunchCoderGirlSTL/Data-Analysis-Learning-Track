@@ -17,8 +17,25 @@ Additionally, we’ll dive into descriptive statistics and introduce regression 
 Lecture
 -------
 
+Excel Analytics (Predictive) and Advanced Formulas
+
 Assignments
 -----------
 
+Perform linear regression predicting health insurance costs. Use the collection of medical datasets below.
+
+At minimum, answer the following:
+
+1. Do Male costs differ from Female?
+2. What is the increase/decrease of costs for smokers?
+3. Discuss model evaluation and theory for selected variables. 
+
 References and Links
 --------------------
+
+`Medical Cost Personal Datasets <https://www.kaggle.com/mirichoi0218/insurance>`_
+
+Lynda Courses:
+
+* `Logistic Regression in R and Excel  <https://www.lynda.com/Office-365-Mac-tutorials/Learning-Logistic-Regression-R-Excel/540348-2.html>`_
+* `Excel 2016: Managing and Analyzing Data <https://www.lynda.com/Excel-tutorials/Excel-2016-Managing-Analyzing-Data/490803-2.html>`_

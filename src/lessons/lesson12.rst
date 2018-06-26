@@ -13,8 +13,14 @@ Continuing our introduction to SQL.
 Lecture
 -------
 
+New Kid on the Block - noSQL 
+
 Assignments
 -----------
 
+TBD
+
 References and Links
 --------------------
+
+`Introduction to NoSQL Data Solutions <https://www.edx.org/course/introduction-nosql-data-solutions-microsoft-dat221x-0>`_

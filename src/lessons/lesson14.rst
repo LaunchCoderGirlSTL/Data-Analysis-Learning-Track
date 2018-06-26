@@ -14,8 +14,12 @@ This week we’ll look at various chart types and their applications in creating
 Lecture
 -------
 
+Visualization Best Practices
+
 Assignments
 -----------
+
+`EdX 102x Data Analysis: Visualization and Dashboard Design <https://www.edx.org/course/data-analysis-visualization-dashboard-delftx-ex102x-2>`_
 
 References and Links
 --------------------
