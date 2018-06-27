@@ -18,8 +18,30 @@ Using Tableau Public, we’ll introduce the basics for data visualization analys
 Lecture
 -------
 
+Introduction to Tableau 
+
 Assignments
 -----------
 
+Download Tableau Public
+
+Create Tableau Public Profile
+
+Create Tableau Account and Register
+
+Watch `The Beauty of Data Visualization <https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en>`_
+
 References and Links
 --------------------
+
+`Tableau Public Download <https://public.tableau.com/en-us/s/download>`_
+
+`Tableau Public Homepage <https://public.tableau.com/en-us/s/>`_
+
+`Tableau Account Registration <https://auth.tableausoftware.com/user/register>`_
+
+`Tableau Resources <https://public.tableau.com/en-us/s/resources>`_
+
+`Getting Started <https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop&version=10.4&topic=getting_started>`_
+
+`Getting Started with Data <https://www.tableau.com/learn/tutorials/on-demand/getting-started-data?product=tableau_desktop&version=10.4&topic=connecting_data>`_

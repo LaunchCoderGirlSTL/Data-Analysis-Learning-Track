@@ -20,5 +20,7 @@ Lecture
 Assignments
 -----------
 
+Project Presentations due
+
 References and Links
 --------------------

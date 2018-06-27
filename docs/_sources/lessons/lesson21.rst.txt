@@ -9,8 +9,14 @@ This week we will continue learning how to construct impactful and purposeful da
 Lecture
 -------
 
+Creating Dashboards and Stoires (2)
+
 Assignments
 -----------
 
+Tableau Data Story due
+
 References and Links
 --------------------
+
+`Data Visualizations for Data Analysts <https://www.lynda.com/Excel-tutorials/Data-Visualization-Data-Analysts/178123-2.html>`_

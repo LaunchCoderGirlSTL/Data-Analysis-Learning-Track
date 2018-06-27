@@ -11,8 +11,14 @@ Learning Objectives
 Lecture
 -------
 
+Tableau Calculations
+
 Assignments
 -----------
 
+Complete Sections 4, 6, and 7 in the `Super Data Science Tableau Course <https://www.superdatascience.com/tableau/>`_
+
 References and Links
 --------------------
+
+`Mastering Calculations <https://www.lynda.com/Tableau-tutorials/Tableau-10-Mastering-Calculations/585002-2.html>`_

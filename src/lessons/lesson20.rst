@@ -14,8 +14,19 @@ This week we’ll learn how to bring the previous weeks’ learnings together to
 Lecture
 -------
 
+Creating Dashboards and Stories (1)
+
 Assignments
 -----------
 
+Tableau Dashboard due
+
+One paragraph final project proposal highlighting:
+
+1. Data source
+2. Approach (tools and analytics)
+3. Estimated time for completion
+
 References and Links
 --------------------
+

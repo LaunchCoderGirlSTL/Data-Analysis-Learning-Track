@@ -32,7 +32,20 @@ Lessons 1-7 can be found in the `Data Science Learning Track <http://codergirl.l
 Resources
 =========
 
-TODO
+`Kaggle.com <https://www.kaggle.com/>`_ (Good source of Python and R help, provides free real life datasets)
+
+More Free Data Resources:
+
+* `15 Great Free Data Sources <https://medium.com/@Infogram/15-great-free-data-sources-for-2016-25cb455db257>`_
+* `50 Amazing Free Data Sources <https://infogram.com/blog/free-data-sources/>`_
+
+`Data Analysis Blog <https://www.doingdata.org/learn/>`_
+
+`Lynda.com <https://www.lynda.com/>`_
+
+`EdX.org <https://www.edx.org/>`_
+
+`Tableau Homepage <https://public.tableau.com/en-us/s/>`_
 
 .. _@LaunchCodeEducation: https://github.com/launchcodeeducation
 .. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL

@@ -13,8 +13,13 @@ Maps create spatial visualizations that can facilitate quick data interpretation
 Lecture
 -------
 
+Tableau Maps and Spatial Development
+
 Assignments
 -----------
 
+TBD
+
 References and Links
 --------------------
+

@@ -22,8 +22,12 @@ ensure students are comfortable with class material, especially Tableau and anal
 Lecture
 -------
 
+Data Preperation and other Visualization Tools
+
 Assignments
 -----------
+
+TBD
 
 References and Links
 --------------------
