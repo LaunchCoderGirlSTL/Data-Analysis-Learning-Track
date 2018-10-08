@@ -1,8 +1,3 @@
-Course Overview
-===============
-
-TODO
-
 Lessons
 =======
 
@@ -46,7 +41,3 @@ More Free Data Resources:
 `EdX.org <https://www.edx.org/>`_
 
 `Tableau Homepage <https://public.tableau.com/en-us/s/>`_
-
-.. _@LaunchCodeEducation: https://github.com/launchcodeeducation
-.. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
-.. _curriculum docs: https://education.launchcode.org/curriculum-docs/
