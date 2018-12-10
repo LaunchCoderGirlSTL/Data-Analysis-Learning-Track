@@ -1,3 +1,11 @@
+About Us
+========
+
+.. toctree::
+   :maxdepth: 1
+
+   about
+
 Lessons
 =======
 
