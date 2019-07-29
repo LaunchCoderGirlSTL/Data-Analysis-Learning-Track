@@ -1,11 +1,3 @@
-About Us
-========
-
-.. toctree::
-   :maxdepth: 1
-
-   about
-
 Lessons
 =======
 
@@ -13,6 +5,7 @@ Lessons 1-7 can be found in the `Data Science Learning Track <http://codergirl.l
 
 .. toctree::
    :maxdepth: 1
+   :name: lessonstoc
 
    lessons/lesson08
    lessons/lesson09
@@ -49,3 +42,11 @@ More Free Data Resources:
 `EdX.org <https://www.edx.org/>`_
 
 `Tableau Homepage <https://public.tableau.com/en-us/s/>`_
+
+About Us
+========
+
+.. toctree::
+   :maxdepth: 1
+
+   about
